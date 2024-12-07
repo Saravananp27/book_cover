@@ -199,7 +199,7 @@ from imagemap import views
 urlpatterns = [
     path('map/',views.image),
 ]
-
+```
 # OUTPUT:
 ![Screenshot 2024-12-07 113051](https://github.com/user-attachments/assets/8fe1994e-e19a-4cf0-b9d7-1aff6445d90d)
 ![Screenshot 2024-12-07 114652](https://github.com/user-attachments/assets/dff46ffe-cf63-4f82-a977-b4bbd536ed54)
